@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ITZrjay2024
+- 🌱 I’m currently learning web development.
